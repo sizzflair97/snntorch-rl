@@ -1,0 +1,9 @@
+torchtyping==0.1.4
+typeguard==4.1.5
+torch==2.0.0
+torchrl==0.1.1
+pygame==2.5.2
+osim-rl==3.0.11
+gym==3.26.2
+gymnasium==0.29.1
+snntorch==0.7.0
