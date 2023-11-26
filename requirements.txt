@@ -7,3 +7,6 @@ osim-rl==3.0.11
 gym==3.26.2
 gymnasium==0.29.1
 snntorch==0.7.0
+gym[classic_control]
+tensorboard
+torch-tb-profiler
